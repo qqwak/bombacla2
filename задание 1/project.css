@@ -1,0 +1,31 @@
+.headtitle {
+    font-size: 30px;
+    color: #f5faf5;
+    font-weight: bold;
+    margin: 10px;
+}
+.subtitle {
+    font-size: 25px;
+    color: #0d24be;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 7px;
+    margin-bottom: 0px;
+}
+.text {
+    font-size: 25px;
+    color: #152cc2;
+    font-weight: 530;
+    font-style: oblique;
+    margin: 5px;
+    margin-left: 175px;
+}
+body{
+    background-color: #79709c;
+    font-family: Arial;
+}
+.img{
+    width: 40px;
+    margin: 0px;
+    margin-left: 175px;
+}
